@@ -6764,12 +6764,13 @@ button.close {
 }
 .content-block-one h1,
 .content-block-one .h1 {
-  color: inherit;
+  color: inherit;/*inherit to #fff*/
 }
 .content-block-one p {
   margin-bottom: 15px;
   font-size: 21px;
   font-weight: 200;
+
 }
 .content-block-one > hr {
   border-top-color: #d5d5d5;
@@ -6797,8 +6798,8 @@ button.close {
 .content-space-one {
   padding: 0px;
   margin-bottom: 0px;
-  color: inherit;
-  background: url(http://placehold.it/1200x650/0033cc/ffffff) no-repeat center center fixed;
+  color: #fff; /*inherit to #fff*/
+  background: url(http://pre04.deviantart.net/4682/th/pre/i/2013/135/a/b/dark_office_by_katoteshi-d65dlxz.jpg) no-repeat center center fixed;/**/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -6810,7 +6811,7 @@ button.close {
   padding: 0px;
   margin-bottom: 0px;
   color: inherit;
-  background: url(http://placehold.it/1200x650/cc0000/ffffff) no-repeat center center fixed;
+  background: url(file:///Users/iandejesus/Google%20Drive/OneDrive/untitled%20folder/htdocs/Socialstats/images/IMG_0597.jpg) no-repeat center center fixed;/* change to http://placehold.it/1200x650/cc0000/ffffff*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
