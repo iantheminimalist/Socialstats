@@ -6825,4 +6825,29 @@ button.close {
     background-color: #fff;
     margin: 0 auto;
 }
+/*Added 10/26/2016*/
+.main-text
+{
+    position: center;
+    top: 50px;
+    width: 96.66666666666666%;
+    color: #FFF;
+}
+.btn-min-block
+{
+    min-width: 170px;
+    line-height: 26px;
+}
+.btn-clear
+{
+    color: #FFF;
+    background-color: transparent;
+    border-color: #FFF;
+    margin-right: 15px;
+}
+.btn-clear:hover
+{
+    color: #000;
+    background-color: #FFF;
+}
 /*# sourceMappingURL=bootstrap.css.map */
