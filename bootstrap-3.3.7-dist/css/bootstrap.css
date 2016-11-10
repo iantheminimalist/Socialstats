@@ -6828,8 +6828,8 @@ button.close {
 /*Added 10/26/2016*/
 .main-text
 {
-    position: center;
-    top: 50px;
+    position: absolute;
+    top: 150px;
     width: 96.66666666666666%;
     color: #FFF;
 }
